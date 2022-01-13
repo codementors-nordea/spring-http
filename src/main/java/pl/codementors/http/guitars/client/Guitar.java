@@ -1,4 +1,4 @@
-package pl.infoshare.http.guitars.client;
+package pl.codementors.http.guitars.client;
 
 public class Guitar {
 

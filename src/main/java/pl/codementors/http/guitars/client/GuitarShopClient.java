@@ -1,4 +1,4 @@
-package pl.infoshare.http.guitars.client;
+package pl.codementors.http.guitars.client;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.web.client.RestTemplateBuilder;

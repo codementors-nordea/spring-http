@@ -1,7 +1,7 @@
 package pl.codementors.http.guitars.model;
 
 import lombok.Value;
-import pl.infoshare.http.guitars.client.Guitar;
+import pl.codementors.http.guitars.client.Guitar;
 
 @Value
 public class AvailableGuitar {
