@@ -1,10 +1,10 @@
-package pl.infoshare.http.guitars;
+package pl.codementors.http.guitars;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
-import pl.infoshare.http.guitars.client.Guitar;
-import pl.infoshare.http.guitars.client.GuitarShopClient;
-import pl.infoshare.http.guitars.model.AvailableGuitar;
+import pl.codementors.http.guitars.client.Guitar;
+import pl.codementors.http.guitars.client.GuitarShopClient;
+import pl.codementors.http.guitars.model.AvailableGuitar;
 
 import java.util.Comparator;
 import java.util.List;
