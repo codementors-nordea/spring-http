@@ -1,4 +1,4 @@
-package pl.infoshare.http.guitars.model;
+package pl.codementors.http.guitars.model;
 
 import lombok.Value;
 

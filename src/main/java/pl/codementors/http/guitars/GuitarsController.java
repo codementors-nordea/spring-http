@@ -1,7 +1,7 @@
-package pl.infoshare.http.guitars;
+package pl.codementors.http.guitars;
 
 import org.springframework.web.bind.annotation.*;
-import pl.infoshare.http.guitars.model.AvailableGuitar;
+import pl.codementors.http.guitars.model.AvailableGuitar;
 
 import java.util.List;
 
