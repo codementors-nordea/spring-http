@@ -1,4 +1,4 @@
-package pl.infoshare.http.guitars.client;
+package pl.codementors.http.guitars.client;
 
 import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
 import org.springframework.beans.factory.annotation.Value;
