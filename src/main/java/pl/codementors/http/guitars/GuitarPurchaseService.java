@@ -1,4 +1,4 @@
-package pl.infoshare.http.guitars;
+package pl.codementors.http.guitars;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
